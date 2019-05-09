@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="233" column="242" selection-start-line="233" selection-start-column="242" selection-end-line="233" selection-end-column="242" />
+            <state relative-caret-position="1823">
+              <caret line="434" column="127" selection-start-line="434" selection-start-column="127" selection-end-line="434" selection-end-column="127" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#a#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#a#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -32,10 +31,10 @@
                 <element signature="e#30473#30479#0" expanded="true" />
                 <element signature="e#30479#30485#0" expanded="true" />
                 <element signature="e#30485#30491#0" expanded="true" />
-                <element signature="e#30815#30821#0" expanded="true" />
-                <element signature="e#30821#30827#0" expanded="true" />
-                <element signature="e#30827#30833#0" expanded="true" />
-                <element signature="e#30833#30839#0" expanded="true" />
+                <element signature="e#30240#30246#0" expanded="true" />
+                <element signature="e#30246#30252#0" expanded="true" />
+                <element signature="e#30252#30258#0" expanded="true" />
+                <element signature="e#30258#30264#0" expanded="true" />
                 <element signature="e#30998#31004#0" expanded="true" />
                 <element signature="e#31004#31010#0" expanded="true" />
                 <element signature="e#31010#31016#0" expanded="true" />
@@ -288,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557431068313</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="5/9">
+      <created>1557431420295</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557431420295</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -389,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="233" column="242" selection-start-line="233" selection-start-column="242" selection-end-line="233" selection-end-column="242" />
+        <state relative-caret-position="1823">
+          <caret line="434" column="127" selection-start-line="434" selection-start-column="127" selection-end-line="434" selection-end-column="127" />
           <folding>
             <element signature="n#style#0;n#button#0;n#a#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -405,10 +411,10 @@
             <element signature="e#30473#30479#0" expanded="true" />
             <element signature="e#30479#30485#0" expanded="true" />
             <element signature="e#30485#30491#0" expanded="true" />
-            <element signature="e#30815#30821#0" expanded="true" />
-            <element signature="e#30821#30827#0" expanded="true" />
-            <element signature="e#30827#30833#0" expanded="true" />
-            <element signature="e#30833#30839#0" expanded="true" />
+            <element signature="e#30240#30246#0" expanded="true" />
+            <element signature="e#30246#30252#0" expanded="true" />
+            <element signature="e#30252#30258#0" expanded="true" />
+            <element signature="e#30258#30264#0" expanded="true" />
             <element signature="e#30998#31004#0" expanded="true" />
             <element signature="e#31004#31010#0" expanded="true" />
             <element signature="e#31010#31016#0" expanded="true" />
