@@ -105,14 +105,7 @@
       <workItem from="1583358812144" duration="23000" />
       <workItem from="1583360139375" duration="36000" />
       <workItem from="1583436079858" duration="380000" />
-      <workItem from="1585334823163" duration="332000" />
-    </task>
-    <task id="LOCAL-00006" summary="Publications 25-8">
-      <created>1557293852491</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1557293852491</updated>
+      <workItem from="1585334823163" duration="873000" />
     </task>
     <task id="LOCAL-00007" summary="Publications 25-8">
       <created>1557294079259</created>
@@ -450,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581354108950</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="3/27">
+      <created>1585335383707</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1585335383708</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +468,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="All completed except downloads" />
     <MESSAGE value="5/8" />
     <MESSAGE value="5/9" />
     <MESSAGE value="5/10" />
@@ -493,6 +492,21 @@
     <MESSAGE value="1/9" />
     <MESSAGE value="1/10" />
     <MESSAGE value="2/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/10" />
+    <MESSAGE value="3/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/27" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585335383103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585335383103" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1585335386901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585335386901" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585335468783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585335468783" />
   </component>
 </project>
