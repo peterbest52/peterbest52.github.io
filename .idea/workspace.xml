@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +83,7 @@
       <workItem from="1591110010400" duration="1797000" />
       <workItem from="1591111857788" duration="247000" />
       <workItem from="1591112206515" duration="243000" />
-      <workItem from="1593126444870" duration="520000" />
-    </task>
-    <task id="LOCAL-00016" summary="5/9">
-      <created>1557432381414</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1557432381415</updated>
+      <workItem from="1593126444870" duration="894000" />
     </task>
     <task id="LOCAL-00017" summary="5/9">
       <created>1557433558695</created>
@@ -429,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591111995661</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="6/25">
+      <created>1593127034557</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1593127034558</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +446,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="6/17" />
     <MESSAGE value="6/27" />
     <MESSAGE value="6/28" />
     <MESSAGE value="7/2" />
@@ -472,17 +470,18 @@
     <MESSAGE value="5/7" />
     <MESSAGE value="5/10" />
     <MESSAGE value="6/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/2" />
+    <MESSAGE value="6/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/25" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1591111995090">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1593127033967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591111995090" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1591111998206">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593127033967" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593127036604">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591111998206" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593127036604" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585335468783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
