@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +85,8 @@
       <workItem from="1591111857788" duration="247000" />
       <workItem from="1591112206515" duration="243000" />
       <workItem from="1593126444870" duration="894000" />
-    </task>
-    <task id="LOCAL-00017" summary="5/9">
-      <created>1557433558695</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1557433558695</updated>
+      <workItem from="1593127510071" duration="81000" />
+      <workItem from="1593206065851" duration="239000" />
     </task>
     <task id="LOCAL-00018" summary="5/9">
       <created>1557441871748</created>
@@ -428,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593127034558</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="6/25">
+      <created>1593127586746</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1593127586746</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,10 +477,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="6/25" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1593127033967">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1593127586135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593127033967" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593127586135" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593127036604">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
