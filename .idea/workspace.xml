@@ -29,7 +29,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -46,6 +45,7 @@
       </console-settings>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,13 +105,8 @@
       <workItem from="1610009453280" duration="103000" />
       <workItem from="1610036697199" duration="563000" />
       <workItem from="1611415562088" duration="1089000" />
-    </task>
-    <task id="LOCAL-00034" summary="7/30">
-      <created>1564499519818</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1564499519818</updated>
+      <workItem from="1611672674372" duration="332000" />
+      <workItem from="1611673105589" duration="319000" />
     </task>
     <task id="LOCAL-00035" summary="8/10">
       <created>1565428712820</created>
@@ -449,11 +444,18 @@
       <option name="project" value="LOCAL" />
       <updated>1611415765485</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="1/26">
+      <created>1611672968144</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1611672968144</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -467,7 +469,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="12/20" />
     <MESSAGE value="12/21" />
     <MESSAGE value="1/8" />
     <MESSAGE value="1/9" />
@@ -492,16 +493,7 @@
     <MESSAGE value="1/4" />
     <MESSAGE value="1/7" />
     <MESSAGE value="1/23" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/23" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1611415764724">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611415764724" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1611416598356">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611416598356" />
+    <MESSAGE value="1/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/26" />
   </component>
 </project>
