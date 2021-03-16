@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="" />
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="3/11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,13 +115,8 @@
       <workItem from="1612975297880" duration="691000" />
       <workItem from="1613669482808" duration="76000" />
       <workItem from="1614599285030" duration="303000" />
-    </task>
-    <task id="LOCAL-00045" summary="11/15">
-      <created>1573857249123</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1573857249123</updated>
+      <workItem from="1615459126627" duration="392000" />
+      <workItem from="1615901257519" duration="553000" />
     </task>
     <task id="LOCAL-00046" summary="11/15">
       <created>1573857540022</created>
@@ -456,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614599569143</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="3/11">
+      <created>1615459348258</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1615459348266</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +479,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="1/10" />
     <MESSAGE value="3/27" />
     <MESSAGE value="4/10" />
     <MESSAGE value="4/27" />
@@ -499,6 +503,7 @@
     <MESSAGE value="2/10" />
     <MESSAGE value="2/18" />
     <MESSAGE value="3/1" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/1" />
+    <MESSAGE value="3/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/11" />
   </component>
 </project>
