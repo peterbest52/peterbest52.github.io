@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,14 +120,7 @@
       <workItem from="1619613841827" duration="931000" />
       <workItem from="1619614849098" duration="71000" />
       <workItem from="1620726464176" duration="635000" />
-      <workItem from="1623391919176" duration="401000" />
-    </task>
-    <task id="LOCAL-00049" summary="12/21">
-      <created>1576922848360</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1576922848360</updated>
+      <workItem from="1623391919176" duration="703000" />
     </task>
     <task id="LOCAL-00050" summary="12/21">
       <created>1576922982792</created>
@@ -466,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620727029843</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="6/11">
+      <created>1623392555130</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1623392555130</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,7 +483,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="5/7" />
     <MESSAGE value="5/10" />
     <MESSAGE value="6/2" />
     <MESSAGE value="6/25" />
@@ -509,6 +507,7 @@
     <MESSAGE value="3/16" />
     <MESSAGE value="4/28" />
     <MESSAGE value="5/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="5/11" />
+    <MESSAGE value="6/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/11" />
   </component>
 </project>
