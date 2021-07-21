@@ -26,6 +26,9 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1YgKTmxvtegwKYq8sij2pdwX1Ea" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -130,14 +133,8 @@
       <workItem from="1626419421262" duration="167000" />
       <workItem from="1626797020342" duration="1104000" />
       <workItem from="1626848766988" duration="1830000" />
-      <workItem from="1626872326778" duration="327000" />
-    </task>
-    <task id="LOCAL-00055" summary="3/27">
-      <created>1585335383707</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1585335383708</updated>
+      <workItem from="1626872326778" duration="709000" />
+      <workItem from="1626883446957" duration="952000" />
     </task>
     <task id="LOCAL-00056" summary="3/27">
       <created>1585335824568</created>
@@ -475,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626850002384</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="7/21">
+      <created>1626872894966</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1626872894967</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
