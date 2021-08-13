@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,13 +136,7 @@
       <workItem from="1627022857353" duration="146000" />
       <workItem from="1627187147898" duration="86000" />
       <workItem from="1627548884974" duration="129000" />
-    </task>
-    <task id="LOCAL-00062" summary="5/10">
-      <created>1589132928538</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1589132928539</updated>
+      <workItem from="1627907061696" duration="243000" />
     </task>
     <task id="LOCAL-00063" summary="6/2">
       <created>1591111701457</created>
@@ -483,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627187216853</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="8/2">
+      <created>1627907133157</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1627907133157</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +503,6 @@
     <MESSAGE value="7/12" />
     <MESSAGE value="7/20" />
     <MESSAGE value="7/28" />
-    <MESSAGE value="8/2" />
     <MESSAGE value="10/2" />
     <MESSAGE value="12/26" />
     <MESSAGE value="1/4" />
@@ -526,6 +523,7 @@
     <MESSAGE value="7/16" />
     <MESSAGE value="7/21" />
     <MESSAGE value="7/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/25" />
+    <MESSAGE value="8/2" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/2" />
   </component>
 </project>
