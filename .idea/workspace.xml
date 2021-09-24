@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="" />
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,14 +143,8 @@
       <workItem from="1628864872166" duration="231000" />
       <workItem from="1632259300545" duration="771000" />
       <workItem from="1632497945267" duration="22000" />
-      <workItem from="1632499186897" duration="365000" />
-    </task>
-    <task id="LOCAL-00066" summary="6/25">
-      <created>1593127586746</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1593127586746</updated>
+      <workItem from="1632499186897" duration="405000" />
+      <workItem from="1632499669925" duration="330000" />
     </task>
     <task id="LOCAL-00067" summary="6/26">
       <created>1593206521392</created>
@@ -485,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632499473681</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="9/24">
+      <created>1632499555721</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1632499555721</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
