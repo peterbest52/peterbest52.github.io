@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="7/28" />
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="7/29">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,13 +185,9 @@
       <workItem from="1652992045930" duration="9000" />
       <workItem from="1658628522982" duration="1127000" />
       <workItem from="1659022816493" duration="666000" />
-    </task>
-    <task id="LOCAL-00111" summary="8/2">
-      <created>1627907133157</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1627907133157</updated>
+      <workItem from="1659128985155" duration="193000" />
+      <workItem from="1660259395534" duration="155000" />
+      <workItem from="1660919082963" duration="844000" />
     </task>
     <task id="LOCAL-00112" summary="8/13">
       <created>1628865031524</created>
@@ -526,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659022871465</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="7/29">
+      <created>1659129154917</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1659129154917</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +562,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="8/2" />
     <MESSAGE value="8/13" />
     <MESSAGE value="9/21" />
     <MESSAGE value="9/24" />
@@ -581,6 +586,7 @@
     <MESSAGE value="5/19" />
     <MESSAGE value="7/23" />
     <MESSAGE value="7/28" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/28" />
+    <MESSAGE value="7/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/29" />
   </component>
 </project>
