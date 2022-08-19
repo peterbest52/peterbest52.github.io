@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="7/29">
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="8/19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -187,14 +187,8 @@
       <workItem from="1659022816493" duration="666000" />
       <workItem from="1659128985155" duration="193000" />
       <workItem from="1660259395534" duration="155000" />
-      <workItem from="1660919082963" duration="844000" />
-    </task>
-    <task id="LOCAL-00112" summary="8/13">
-      <created>1628865031524</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1628865031525</updated>
+      <workItem from="1660919082963" duration="1452000" />
+      <workItem from="1660942284834" duration="11000" />
     </task>
     <task id="LOCAL-00113" summary="9/21">
       <created>1632259822012</created>
@@ -532,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659129154917</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="8/19">
+      <created>1660919986629</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1660919986630</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +563,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="8/13" />
     <MESSAGE value="9/21" />
     <MESSAGE value="9/24" />
     <MESSAGE value="9/25" />
@@ -587,6 +587,7 @@
     <MESSAGE value="7/23" />
     <MESSAGE value="7/28" />
     <MESSAGE value="7/29" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/29" />
+    <MESSAGE value="8/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/19" />
   </component>
 </project>
