@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="9/19">
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="9/26">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -37,22 +37,25 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1YgKTmxvtegwKYq8sij2pdwX1Ea" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Website/PersonalWeb",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="peterbest52.github.io" is-module-sdk="true">
@@ -203,21 +206,9 @@
       <workItem from="1662040756818" duration="1000" />
       <workItem from="1663627933646" duration="876000" />
       <workItem from="1663855112242" duration="4000" />
-      <workItem from="1664203960083" duration="406000" />
-    </task>
-    <task id="LOCAL-00116" summary="9/24">
-      <created>1632500017797</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1632500017798</updated>
-    </task>
-    <task id="LOCAL-00117" summary="9/25">
-      <created>1632601257281</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1632601257281</updated>
+      <workItem from="1664203960083" duration="747000" />
+      <workItem from="1664459995561" duration="134000" />
+      <workItem from="1670361188762" duration="303000" />
     </task>
     <task id="LOCAL-00118" summary="10/10">
       <created>1633912647924</created>
@@ -548,7 +539,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663628631767</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="9/26">
+      <created>1664204438262</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1664204438262</updated>
+    </task>
+    <task id="LOCAL-00166" summary="9/26">
+      <created>1664204486215</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1664204486215</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,11 +579,9 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="9/24" />
     <MESSAGE value="9/25" />
     <MESSAGE value="10/10" />
     <MESSAGE value="11/16" />
@@ -603,6 +606,7 @@
     <MESSAGE value="7/29" />
     <MESSAGE value="8/19" />
     <MESSAGE value="9/19" />
-    <option name="LAST_COMMIT_MESSAGE" value="9/19" />
+    <MESSAGE value="9/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="9/26" />
   </component>
 </project>
