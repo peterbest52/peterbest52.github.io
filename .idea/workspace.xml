@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="" />
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,13 +228,7 @@
       <workItem from="1673384137435" duration="889000" />
       <workItem from="1673470679136" duration="203000" />
       <workItem from="1673477067678" duration="78000" />
-    </task>
-    <task id="LOCAL-00126" summary="11/27">
-      <created>1638028597743</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1638028597744</updated>
+      <workItem from="1673889700040" duration="662000" />
     </task>
     <task id="LOCAL-00127" summary="11/27">
       <created>1638028763950</created>
@@ -569,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673477106338</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="1/16">
+      <created>1673889790157</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1673889790157</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +602,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="11/27" />
     <MESSAGE value="11/30" />
     <MESSAGE value="12/11" />
     <MESSAGE value="12/18" />
@@ -623,6 +626,7 @@
     <MESSAGE value="1/5" />
     <MESSAGE value="1/6" />
     <MESSAGE value="1/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/11" />
+    <MESSAGE value="1/16" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/16" />
   </component>
 </project>
