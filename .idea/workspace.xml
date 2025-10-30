@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="70395973-2ec2-4a77-9ff0-3b4824c33471" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,13 +270,7 @@
       <workItem from="1749066181249" duration="900000" />
       <workItem from="1752478028498" duration="380000" />
       <workItem from="1752478555665" duration="315000" />
-    </task>
-    <task id="LOCAL-00190" summary="10/8">
-      <created>1696771935990</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1696771935991</updated>
+      <workItem from="1752954279302" duration="524000" />
     </task>
     <task id="LOCAL-00191" summary="10/8">
       <created>1696772559827</created>
@@ -616,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752478713130</updated>
     </task>
-    <option name="localTasksCounter" value="239" />
+    <task id="LOCAL-00239" summary="7/19/25">
+      <created>1752954448998</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1752954448998</updated>
+    </task>
+    <option name="localTasksCounter" value="240" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +644,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="11/13" />
     <MESSAGE value="11/15" />
     <MESSAGE value="11/21" />
     <MESSAGE value="12/5" />
@@ -670,6 +668,7 @@
     <MESSAGE value="5/31" />
     <MESSAGE value="6/4/25" />
     <MESSAGE value="7/14/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/14/25" />
+    <MESSAGE value="7/19/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/19/25" />
   </component>
 </project>
